@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "moff-palindrome": "^0.1.0"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.1"
+  }
+}
