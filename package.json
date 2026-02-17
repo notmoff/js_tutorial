@@ -3,6 +3,8 @@
     "moff-palindrome": "^0.2.0"
   },
   "devDependencies": {
-    "browserify": "^17.0.1"
+    "browserify": "^17.0.1",
+    "fs": "^0.0.1-security",
+    "urllib": "^4.9.0"
   }
 }
